@@ -7,5 +7,5 @@ hp_search.m
 ## (2)支持多线跑数据集
 main_parpool.m
 
-## (3)可视化每一个视频的位置误差和冲抵率图
+## (3)可视化每一个视频的位置误差和重叠率
 Curve_perform.m
