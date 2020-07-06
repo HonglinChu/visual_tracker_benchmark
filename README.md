@@ -9,4 +9,8 @@ main_parpool.m
 
 ## (3)可视化每一个视频的位置误差和重叠率
 Curve_perfPlot.m
-![image](https://github.com/HonglinChu/visual_tracker_benchmark/O-Bird1.png)
+
+![image](https://github.com/HonglinChu/visual_tracker_benchmark/blob/master/O-Bird1.png)
+
+![image](https://github.com/HonglinChu/visual_tracker_benchmark/blob/master/E-Bird1.png)
+
